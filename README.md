@@ -1,4 +1,4 @@
-- 👋 Hi, I’m manish pande
+- 👋 Hi, I’m manish pandey
 - 👀 I’m interested in Data ananlysis
 - 🌱 I’m currently learning my sql, Power bi, and python
 - 📫 How to reach me ...mp26762@gmail.com
